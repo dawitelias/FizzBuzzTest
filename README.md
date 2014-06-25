@@ -1,6 +1,6 @@
 FizzBuzzTest
 ============
-This is a simple script that solves the popular Fizz Buzz Test. It's very simple but is used as a warm up interview question to stump candidates.
+_This is a simple script that solves the popular Fizz Buzz Test. It's very simple but is used as a warm up interview question to stump candidates._
 
 Read more about the Fizz Buzz Test [here](http://c2.com/cgi/wiki?FizzBuzzTest).
 
