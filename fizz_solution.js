@@ -30,10 +30,8 @@ function fizzbuzz() {
 		if (str.length === 0) {
 			str = i.toString();
 		}
-
 		console.log(str);	
 	}
-
 }
 
 fizzbuzz();
